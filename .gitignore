@@ -2,4 +2,6 @@
 *.ipynb_checkpoints
 *.pdf
 *.png
-
+*.bmp
+*.jpg
+*.avi
